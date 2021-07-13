@@ -1,16 +1,12 @@
 # Andrey Seliverstov
 ============
 
--------------------     ----------------------------
-My E-mail:              aardvarkd101@gmail.com
-Location:               Moscow
--------------------     ----------------------------
+### My E-mail:              aardvarkd101@gmail.com
+### Location:               Moscow
 
 **Education**
 ---------
-## Design engineer
-
-
+#### Design engineer
 
 **Learning goals:**
 ---------
@@ -21,15 +17,15 @@ Location:               Moscow
 
 **Purpose**
 ---------
-## Become a Frontend developer
+#### Become a Frontend developer
 
 **Work experience**
 ---------
-## At the moment I am a design engineer.
-## I'm just starting my learning as a developer ;)
+#### At the moment I am a design engineer.
+#### I'm just starting my learning as a developer ;)
 
 **English level**
 ---------
-## Intermediate (I've got a certificate)
+#### Intermediate (I've got a certificate)
 
 
