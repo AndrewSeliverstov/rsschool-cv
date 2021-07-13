@@ -1,5 +1,4 @@
 # Andrey Seliverstov
-============
 
 ### My E-mail:              aardvarkd101@gmail.com
 ### Location:               Moscow
@@ -28,4 +27,8 @@
 ---------
 #### Intermediate (I've got a certificate)
 
+**My hobbies**
+---------
+* Coding
+* 3D printing
 
