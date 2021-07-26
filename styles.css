@@ -1,0 +1,102 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 100;
+  }
+  main {
+    background-color: #2e3b3f;
+    padding: 60px;
+    font-family: Verdana;
+    border-radius: 8px;
+  }
+  
+  header, h2 {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #fff;
+  }
+
+  figcaption {
+    color:#fff
+  }
+
+  h3 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #ffc06e;
+  }
+  
+  .myPhoto {
+    border-radius: 10px;
+    height: 260px;
+  }
+
+  .rsLogo {
+    border-radius: 10px;
+    height: 50px;
+  }
+
+  table {
+    font-family: Verdana, Serif, "Times New Roman";
+    border-collapse: collapse;
+    background-color: #666;
+    width: 60%;
+  }
+  
+  td, th, tr {
+    border: 1px solid #fff;
+    text-align: center;
+    padding: 4px;
+    height: 50px;
+    color: #fff;
+  }
+  
+  a {
+    text-decoration: none;
+    background-color: #0982aa;
+    padding: 8px;
+    font-family: Verdana;
+    border-radius: 6px;
+    border-color: #fff;
+  }
+  
+  a:hover {
+    background-color: #fff;
+    font-weight: bold;
+  }
+
+  .footerLinks {
+    text-decoration: none;
+    background-color: #0982aa;
+    font-family: Verdana;
+    border-radius: 6px;
+    border-color: #0982aa;
+  }
+
+  .rsLink {
+    text-decoration: none;
+    background-color: #fff;
+  }
+
+  .footerLinks:hover {
+    background-color: #ffc06e;
+  }
+
+
+  p {
+    color: #ffc06e;
+  }
+
+  ul {
+    list-style-type:circle;
+    color: #ffc06e;
+    padding: 10px;   
+  }
+
+  li {
+    margin-bottom: 1em;
+  }
+
+  address {
+    text-align: center;
+  }
+  
